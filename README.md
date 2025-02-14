@@ -1,4 +1,4 @@
-## 你好👋
+## 一个基于customtkinter实现的成绩处理辅助工具👋
 
 我正在学习Python GUI，使用customtkinter制作了一个教师成绩辅助工具。
 
