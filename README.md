@@ -23,3 +23,6 @@ moreCustomTkinterWidgets：https://github.com/fastattackv/MoreCustomTkinterWidge
     ![CTkTabview](image-2.png)
 
 由于 button中的command中的事件只能调用函数，而不能给函数传参，所以有很多选择文件和目录的函数，冗余量很大，如果你有好的方法，可以在issue中教我，谢谢你！
+
+使用 auto-py-to-exe 打包的注意事项！
+![auto-py-to-exe](Snipaste)
